@@ -3,7 +3,7 @@ import Review from './components/Review';
 import Pricing from './components/Pricing';
 
 import { motion } from "framer-motion";
-import { CheckCircle, Users, Zap, Star, Facebook, Twitter, Instagram } from "lucide-react";
+import { CheckCircle, Users, Zap, Facebook, Twitter, Instagram } from "lucide-react";
 
 export default function TaskFlowLanding() {
   const fadeIn = {
